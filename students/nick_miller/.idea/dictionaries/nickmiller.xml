@@ -1,8 +1,31 @@
 <component name="ProjectDictionaryState">
   <dictionary name="nickmiller">
     <words>
+      <w>addnewitem</w>
       <w>blub</w>
+      <w>exitprogram</w>
+      <w>fullinventory</w>
+      <w>getprice</w>
+      <w>iselectricappliance</w>
+      <w>isfurniture</w>
+      <w>itembrand</w>
+      <w>itemcode</w>
+      <w>itemdescription</w>
+      <w>iteminfo</w>
+      <w>itemmaterial</w>
+      <w>itemprice</w>
+      <w>itemrentalprice</w>
+      <w>itemsize</w>
+      <w>itemvoltage</w>
+      <w>mainmenu</w>
+      <w>marketprice</w>
       <w>mypet</w>
+      <w>newitem</w>
+      <w>outputdict</w>
+      <w>printdict</w>
+      <w>productcode</w>
+      <w>rentalprice</w>
+      <w>returnasdictionary</w>
       <w>subtracter</w>
       <w>subtractor</w>
     </words>
